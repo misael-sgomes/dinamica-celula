@@ -1,12 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Luckiest+Guy&display=swap');
 
 body {
+    display: grid;
     margin: 0;
     height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+    padding: 0;
     background: linear-gradient(-40deg, #007bff, #eaa);
 }
 
